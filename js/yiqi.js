@@ -27,7 +27,7 @@ window.onload=function(){
 
 	}
 	hao.onclick=function(){
-		alert("曼曼终于同意了，我爱你");
+		alert("曼曼终于同意了，开始我们的逗比生活吧");
 	}
 	
 
